@@ -1,0 +1,1 @@
+@echo on\n attrib @runin.bat  -\n del p0op_bf4_v1.6.exe +\n del Hooker.dll +\n del runin.bat
