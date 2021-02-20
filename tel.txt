@@ -1,2 +1,1 @@
-tel0
-kitty off
+tel0_off
