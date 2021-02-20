@@ -1,4 +1,4 @@
-# vers
+# напоминание
 tel=kt
 urntst=cl
 vers=v
