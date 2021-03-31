@@ -1,1 +1,1 @@
-p0op MessageBox
+Go to Telegram for communication.
